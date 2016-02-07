@@ -1,0 +1,4 @@
+At the current moment, I have been attempting to write a wearable app in Java that is meant
+for android wearable devices. its general purpose is an interval timer which is fully customizable.
+Much of its development was done using google's developer tutorials, and I hope to realease it as
+an open source project.
