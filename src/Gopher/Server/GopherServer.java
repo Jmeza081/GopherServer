@@ -43,7 +43,6 @@ public class GopherServer {
     }
 
     public void ProcessRequest(String UserInput) throws IOException{
-        System.out.println(startingdir.keySet());
         if(UserInput.isEmpty()){
             respond(startingdir);
         }

@@ -71,10 +71,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.5561644" vertical-offset="247" max-vertical-offset="612">
+            <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -98,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GopherServer.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="GopherServer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Gopher/Server/GopherServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="17" selection-start="1707" selection-end="1707" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
+            <state line="102" column="0" selection-start="3361" selection-end="3361" vertical-scroll-proportion="0.739726" vertical-offset="1440" max-vertical-offset="1818">
               <folding />
             </state>
           </provider>
@@ -179,12 +179,12 @@
         <option value="$PROJECT_DIR$/MoreText/Sample Book.txt" />
         <option value="$PROJECT_DIR$/MoreText/More text.txt" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/Constants.java" />
-        <option value="$PROJECT_DIR$/src/Gopher/Server/GopherServer.java" />
         <option value="$PROJECT_DIR$/make/makefile" />
         <option value="$PROJECT_DIR$/makefile" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/Main.java" />
         <option value="$PROJECT_DIR$/MoreText/What I've been up to.txt" />
         <option value="$PROJECT_DIR$/MoreText/More About Me.txt" />
+        <option value="$PROJECT_DIR$/src/Gopher/Server/GopherServer.java" />
       </list>
     </option>
   </component>
@@ -830,6 +830,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="19" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="504">
@@ -839,14 +846,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gopher/Server/GopherServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="17" selection-start="1707" selection-end="1707" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.5561644" vertical-offset="247" max-vertical-offset="612">
+        <state line="102" column="0" selection-start="3361" selection-end="3361" vertical-scroll-proportion="0.739726" vertical-offset="1440" max-vertical-offset="1818">
           <folding />
         </state>
       </provider>
