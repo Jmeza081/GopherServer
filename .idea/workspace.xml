@@ -71,10 +71,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
+            <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.5561644" vertical-offset="247" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -89,10 +89,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="profiles_settings.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="profiles_settings.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="365">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
               <folding />
             </state>
           </provider>
@@ -128,7 +128,7 @@
       <file leaf-file-name="What I've been up to.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MoreText/What I've been up to.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="23" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
+            <state line="3" column="2" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
               <folding />
             </state>
           </provider>
@@ -137,7 +137,7 @@
       <file leaf-file-name="More About Me.txt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MoreText/More About Me.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="70" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="144">
+            <state line="1" column="37" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
               <folding />
             </state>
           </provider>
@@ -176,15 +176,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Gopher/Main.java" />
-        <option value="$PROJECT_DIR$/MoreText/What I've been up to.txt" />
         <option value="$PROJECT_DIR$/MoreText/Sample Book.txt" />
         <option value="$PROJECT_DIR$/MoreText/More text.txt" />
-        <option value="$PROJECT_DIR$/MoreText/More About Me.txt" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/Constants.java" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/GopherServer.java" />
         <option value="$PROJECT_DIR$/make/makefile" />
         <option value="$PROJECT_DIR$/makefile" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/Main.java" />
+        <option value="$PROJECT_DIR$/MoreText/What I've been up to.txt" />
+        <option value="$PROJECT_DIR$/MoreText/More About Me.txt" />
       </list>
     </option>
   </component>
@@ -519,13 +519,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1307" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35185185" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35185185" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.124713086" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -781,9 +781,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoreText/More About Me.txt">
+    <entry file="file://$PROJECT_DIR$/About/About this server.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="70" selection-start="85" selection-end="85" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="419">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoreText/What I've been up to.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="2" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
           <folding />
         </state>
       </provider>
@@ -802,16 +823,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MoreText/What I've been up to.txt">
+    <entry file="file://$PROJECT_DIR$/MoreText/More About Me.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="23" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/About/About this server.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="419">
+        <state line="1" column="37" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="144">
           <folding />
         </state>
       </provider>
@@ -823,13 +837,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Gopher/Server/GopherServer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="50" column="17" selection-start="1707" selection-end="1707" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1836">
@@ -837,16 +844,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/makefile">
+    <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="87" selection-end="87" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/copyright/profiles_settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="365">
+        <state line="25" column="9" selection-start="737" selection-end="737" vertical-scroll-proportion="0.5561644" vertical-offset="247" max-vertical-offset="612">
           <folding />
         </state>
       </provider>
