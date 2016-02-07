@@ -1,5 +1,3 @@
 More About me:
-I am Currently in my Junior year at Loyola University Chicago.
-My expected graduation is May 2017.
-I am currently the Vice President of a student organization by the name 'CRSO'
+I am Currently in my Junior year at College studying computer science.
 I have a fascination with the n = np problem.

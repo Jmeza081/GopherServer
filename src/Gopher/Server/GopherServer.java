@@ -2,7 +2,6 @@ package Gopher.Server;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
@@ -12,6 +11,7 @@ public class GopherServer {
     ServerSocket mServerSocket;
     Socket ClientSocket;
 
+    //Use a Hashmap to store information about datafile types such as directories, textfiles.
     HashMap startingdir = new HashMap();
     HashMap sampleTextDir = new HashMap();
 
@@ -33,7 +33,7 @@ public class GopherServer {
 
     public void ConnectToClient() throws IOException{
         ClientSocket = mServerSocket.accept();
-        System.out.println("Server started on port 8070");
+        //Says nothing
     }
 
     public void StartUpMessage() throws IOException{
@@ -57,7 +57,6 @@ public class GopherServer {
             readFromFile(UserInput+".txt","MoreText/");
         }
         else{
-            System.out.println("Your Resquest: " + UserInput + " could not be processed" );
             respond(startingdir);
         }
 

@@ -1,7 +1,5 @@
 package Gopher.Server;
 
-import Gopher.Server.GopherServer;
-
 import java.io.*;
 
 public class Main {
@@ -9,7 +7,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
 
         int portNumber = 8070;
-        System.out.println("Creating Server on port " + portNumber);
         GopherServer GopherServer = new GopherServer(portNumber);
         GopherServer.CreateServer();
 
@@ -27,9 +24,5 @@ public class Main {
 
             GopherServer.CloseClient();
         }
-
-
-
-
     }
 }
