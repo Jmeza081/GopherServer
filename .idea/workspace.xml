@@ -114,19 +114,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="More About Me.txt" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="More About Me.txt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MoreText/More About Me.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+            <state line="1" column="70" selection-start="85" selection-end="85" vertical-scroll-proportion="0.047368422" vertical-offset="0" max-vertical-offset="380">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Constants.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="487" selection-end="487" vertical-scroll-proportion="0.75789475" vertical-offset="0" max-vertical-offset="540">
+            <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
               <folding />
             </state>
           </provider>
@@ -157,11 +157,11 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/Constants.java" />
         <option value="$PROJECT_DIR$/src/Gopher/Main.java" />
-        <option value="$PROJECT_DIR$/MoreText/More About Me.txt" />
         <option value="$PROJECT_DIR$/MoreText/What I've been up to.txt" />
         <option value="$PROJECT_DIR$/MoreText/Sample Book.txt" />
         <option value="$PROJECT_DIR$/MoreText/More text.txt" />
         <option value="$PROJECT_DIR$/src/Gopher/Server/GopherServer.java" />
+        <option value="$PROJECT_DIR$/MoreText/More About Me.txt" />
       </list>
     </option>
   </component>
@@ -500,13 +500,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="1307" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.124713086" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -575,20 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/About/About this server.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="419">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MoreText/More About Me.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MoreText/What I've been up to.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="23" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
@@ -622,7 +608,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Gopher/Server/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="487" selection-end="487" vertical-scroll-proportion="0.75789475" vertical-offset="0" max-vertical-offset="540">
+        <state line="0" column="22" selection-start="22" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/About/About this server.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="419">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MoreText/More About Me.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="70" selection-start="85" selection-end="85" vertical-scroll-proportion="0.047368422" vertical-offset="0" max-vertical-offset="380">
           <folding />
         </state>
       </provider>
