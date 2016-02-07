@@ -1,8 +1,6 @@
 package Gopher.Server;
 
-/**
- * Created by jmeza on 2/6/16.
- */
+
 public final class Constants {
 
     public static char text = '0';

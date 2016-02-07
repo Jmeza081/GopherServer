@@ -7,12 +7,6 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-import Gopher.Server.Constants.*;
-
-
-/**
- * Created by jmeza on 2/6/16.
- */
 public class GopherServer {
     int portNumber = 0;
     ServerSocket mServerSocket;
